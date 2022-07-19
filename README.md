@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngshumanChakraborty
-- 👀 I’m interested in AIML with Java
+- 👀 I’m interested in AIML, Robotics with ROS using mostly Java
 - 🌱 I’m currently learning DJL and ROS
 - 📫 How to reach me cangshumanc@yahoo.co.in
 
